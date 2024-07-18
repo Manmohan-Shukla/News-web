@@ -49,3 +49,7 @@ searchButton.addEventListener("click", () => {
     fetchNews(query);
     
 });
+
+function onNavItemClick(id) {
+   fetchNews(id);    
+}
