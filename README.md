@@ -1,4 +1,5 @@
 News App
+
 Description:
 This is a news application built using HTML, CSS, and JavaScript. It fetches news articles from a specified API and displays them in a user-friendly interface.
 
