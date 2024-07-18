@@ -18,7 +18,7 @@ Installation:
 
 Clone the repository:
 Bash
-git clone https://github.com/your-username/news-app.git
+git clone https://github.com/Manmohan-Shukla/News-app.git
 Use code with caution.
 
 Open the index.html file in a web browser.
